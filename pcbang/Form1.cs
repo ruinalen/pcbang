@@ -14,7 +14,7 @@ namespace pcbang
 	{
 		public Form1()
 		{
-			InitializeComponent();
+			InitializeComponent(());
 		}
 	}
 }
